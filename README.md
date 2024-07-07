@@ -7,5 +7,5 @@ Recomendamos ejecutar el programa utilizando la imagen "Lights Out.image" ubicad
 
 El juego se inicia enviando el siguiente mensaje: LightsOut new. 
 
-Para más información, véase el [archivo.pdf](/home/juani/OneDrive/Facultad/2° año/Paradigmas de Programación/TPI/LightsOut/PP-B-AZDSVGS-PharoSmalltalk.pdf).
+Para más información, véase [PP-B-AZDSVGS-PharoSmalltalk.pdf](PP-B-AZDSVGS-PharoSmalltalk.pdf).
 
